@@ -31,14 +31,14 @@ const Navbar = () => {
               </div>
               <ul
                 tabIndex={0}
-                className=" menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow text-base font-semibold text-slate-500">
+                className=" menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow text-[15px] font-semibold text-slate-500">
                 {navOptions}
               </ul>
             </div>
             <a className="btn btn-ghost text-[21px] font-medium">SteadFast</a>
           </div>
           <div className="navbar-center hidden lg:flex">
-            <ul className="menu menu-horizontal px-1 text-base font-semibold text-slate-500">
+            <ul className="menu menu-horizontal px-1 text-[15px] font-semibold text-slate-500">
               {navOptions}
             </ul>
           </div>
