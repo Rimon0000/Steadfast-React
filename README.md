@@ -1,4 +1,4 @@
-# SteadFast
+# SteadFastReact
 
 - This is a Task Based website.  
 
@@ -18,4 +18,4 @@
 - HTML, TAILWIND CSS, React, AOS etc.
 
 ###  
-- Project Live Link  -> [SteadFast]()  
+- Project Live Link  -> [SteadFast](https://66f822073c30e0f2c83392cc--tangerine-valkyrie-762bf1.netlify.app/)  
