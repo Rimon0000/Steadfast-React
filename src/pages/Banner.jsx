@@ -6,7 +6,7 @@ const Banner = () => {
       >
         <div className="absolute font-work text-center top-[50%] left-[50%] translate-y-[-50%] translate-x-[-50%]">
           <div className="">
-            <h1 className="text-[20px] sm:text-[35px] md:text-[40px] lg:text-6xl font-bold text-[#151414] max-w-[240px] sm:max-w-[525px] md:max-w-[525px] lg:max-w-[525px] ">
+            <h1 className="text-[20px] sm:text-[35px] md:text-[40px] lg:text-6xl font-bold text-[#151414] max-w-[240px] sm:max-w-[525px] md:max-w-[525px] lg:max-w-[525px]">
               All Thinks Are Possible If You Believe
             </h1>
             <p className="my-8 text-xs sm:text-xs md:text-sm lg:text-base text-[#444343] max-w-[235px] sm:max-w-[494px] md:max-w-[494px] lg:max-w-[494px] w-full">
